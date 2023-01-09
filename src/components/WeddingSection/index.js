@@ -20,7 +20,7 @@ function WeddingSection({ isInvitation }) {
           <div className="row">
             <div className="col-md-10 col-md-offset-1">
             <WeddingInfoBox
-                title="Marriage Ceremony"
+                title="Wedding Reception"
                 time="04:00 PM - 08:00 PM"
                 date="Friday, 27 January 2023"
                 description="Sanjoe Parish Hall, Nellimattam, St Josephs Church Rd, Kothamangalam, Kerala 686691"
